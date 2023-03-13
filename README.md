@@ -5,10 +5,10 @@ The goal of this project is to predict student's dropout and academic success us
 ## Methods
 The following machine learning algorithms were used in this project:
 
-*Logistic regression
-*Decision trees
-*Random forest
-*K-nearest neighbors (KNN)
+*Logistic regression*
+*Decision trees*
+*Random forest*
+*K-nearest neighbors (KNN)*
 
 The data was first preprocessed by encoding categorical variables, dropping irrelevant columns, and splitting into training and testing sets. EDA was perfomed to determine the relationship between the features and the Target variable. The data was also scaled using min-max scaling.
 
