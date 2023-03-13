@@ -15,7 +15,7 @@ The following machine learning algorithms were used in this project:
 
 The data was first preprocessed by encoding categorical variables, dropping irrelevant columns, and splitting into training and testing sets. EDA was perfomed to determine the relationship between the features and the Target variable. The data was also scaled using min-max scaling.
 
-**Hyperparameter Tuning** was performed for each algorithm using grid search with cross-validation (GridSearchCV. Model performance was evaluated using accuracy, precision, and recall.
+**Hyperparameter Tuning** was performed for each algorithm using grid search with cross-validation (GridSearchCV). Model performance was evaluated using accuracy, precision, and recall.
 
 ## Results
 The results showed that the Logistic Regression algorithm had the highest accuracy and recall score, followed by the decision tree algorithm with second highest accuracy score but lowest recall score. KNN had the lowest accuracy score. The choice of scaling method did not have a significant impact on the performance of the models.
